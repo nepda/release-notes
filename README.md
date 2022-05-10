@@ -6,6 +6,8 @@
   * 2022-05-09: 2022.1.1 RC https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-1-1-rc/
 * DDEV
   * 2022-05-06: https://github.com/drud/ddev/releases/tag/v1.19.2
+* Composer
+  * 2022-03-30: https://blog.packagist.com/composer-2-3/
 
 ## Basic Software
 
