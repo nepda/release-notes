@@ -7,10 +7,21 @@
 * DDEV
   * 2022-05-06: https://github.com/drud/ddev/releases/tag/v1.19.2
 
+## Basic Software
+
+* PHP
+  * 8.1
+    * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.1.5
+  * 8.0
+    * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.0.18
+
 ## Libraries
 
 ### PHP Libraries
 
+* laravel/laravel
+  * 9
+  * 8
 * thecodingmachine/safe
   * 2022-05-02: https://github.com/thecodingmachine/safe/releases/tag/v2.1.4
 * phpstan/phpstan
