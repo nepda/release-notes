@@ -15,6 +15,7 @@
   * 8.1
     * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.1.5
   * 8.0
+    * 2022-05-12: https://www.php.net/ChangeLog-8.php#8.0.19
     * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.0.18
 
 ## Libraries
