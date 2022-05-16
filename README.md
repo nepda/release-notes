@@ -3,6 +3,7 @@
 ## Development tools
 
 * PhpStorm
+  * 2022-05-13: 2022.1.1 https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-1-1-is-released/
   * 2022-05-09: 2022.1.1 RC https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-1-1-rc/
 * DDEV
   * 2022-05-06: https://github.com/drud/ddev/releases/tag/v1.19.2
