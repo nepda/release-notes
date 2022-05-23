@@ -35,3 +35,8 @@
   * 2022-05-05: https://github.com/phpstan/phpstan/releases/tag/1.6.6
   * 2022-05-04: https://github.com/phpstan/phpstan/releases/tag/1.6.5
   * 2022-05-02: https://github.com/phpstan/phpstan/releases/tag/1.6.4
+
+## Ecosystem
+
+ * MariaDB
+   * 2022-05-20: MariaDB 10.3.35 https://mariadb.com/kb/en/mariadb-10335-changelog/
