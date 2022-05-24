@@ -31,6 +31,7 @@
 * thecodingmachine/safe
   * 2022-05-02: https://github.com/thecodingmachine/safe/releases/tag/v2.1.4
 * phpstan/phpstan
+  * 2022-05-24: https://github.com/phpstan/phpstan/releases/tag/1.7.1
   * 2022-05-23: https://github.com/phpstan/phpstan/releases/tag/1.7.0
     * Could be a lot faster
   * 2022-05-21: https://github.com/phpstan/phpstan/releases/tag/1.6.9
