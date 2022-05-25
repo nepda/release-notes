@@ -51,6 +51,10 @@
    * 2022-05-20: MariaDB 10.3.35 https://mariadb.com/kb/en/mariadb-10335-changelog/
      * This should fix a bug with more than 999 items in `WHERE IN(...)` clause.
 
+## Team tools
+  * Slack for Linux
+    * 2022-06-16: 4.26.1
+
 ## Links
   * [Slack for Linux (Beta) - Release Notes](https://slack.com/release-notes/linux)
 
