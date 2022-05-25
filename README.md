@@ -14,9 +14,9 @@
 ## Basic Software
 
 * PHP
-  * 8.1
+  * 8.1 ([What's new in PHP 8.1](https://stitcher.io/blog/new-in-php-81))
     * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.1.5
-  * 8.0
+  * 8.0 ([What's new in PHP 8](https://stitcher.io/blog/new-in-php-8))
     * 2022-05-12: https://www.php.net/ChangeLog-8.php#8.0.19
     * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.0.18
 
