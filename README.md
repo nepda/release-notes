@@ -3,6 +3,7 @@
 ## Development tools
 
 * PhpStorm
+  * 2022-05-27: 2022.2 EAP https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-2-early-access-program-is-open/
   * 2022-05-20: 2022.1.2 Preview https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-1-2-preview/
   * 2022-05-13: 2022.1.1 https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-1-1-is-released/
   * 2022-05-09: 2022.1.1 RC https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-1-1-rc/
