@@ -56,6 +56,7 @@
      * This should fix a bug with more than 999 items in `WHERE IN(...)` clause.
  * OpenSearch
    * 2022-05-26: https://github.com/opensearch-project/OpenSearch/releases/tag/2.0.0
+     * [Release notes](https://github.com/opensearch-project/OpenSearch/blob/main/release-notes/opensearch.release-notes-2.0.0.md)
 
 ## Team tools
   * Slack for Linux
