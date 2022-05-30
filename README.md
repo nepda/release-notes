@@ -29,6 +29,8 @@
     * 2022-05-10: https://github.com/laravel/laravel/releases/tag/v9.1.8
   * 8
 * thecodingmachine/safe
+  * 2022-05-25: https://github.com/thecodingmachine/safe/releases/tag/v2.2.0
+    * Maybe a fix for the "Cannot redeclare Safe\array_combine()" bug
   * 2022-05-02: https://github.com/thecodingmachine/safe/releases/tag/v2.1.4
 * phpstan/phpstan
   * 2022-05-24: https://github.com/phpstan/phpstan/releases/tag/1.7.1
