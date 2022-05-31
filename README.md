@@ -36,6 +36,7 @@
     * Maybe a fix for the "Cannot redeclare Safe\array_combine()" bug
   * 2022-05-02: https://github.com/thecodingmachine/safe/releases/tag/v2.1.4
 * phpstan/phpstan
+  * 2022-05-30: https://github.com/phpstan/phpstan/releases/tag/1.7.6
   * 2022-05-30: https://github.com/phpstan/phpstan/releases/tag/1.7.5
   * 2022-05-30: https://github.com/phpstan/phpstan/releases/tag/1.7.4
   * 2022-05-29: https://github.com/phpstan/phpstan/releases/tag/1.7.3
