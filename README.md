@@ -30,6 +30,7 @@
 
 * laravel/laravel
   * 9
+    * 2022-05-31: https://github.com/laravel/laravel/releases/tag/v9.1.9
     * 2022-05-10: https://github.com/laravel/laravel/releases/tag/v9.1.8
   * 8
 * thecodingmachine/safe
