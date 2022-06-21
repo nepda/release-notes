@@ -11,6 +11,7 @@
 * DDEV
   * 2022-05-06: https://github.com/drud/ddev/releases/tag/v1.19.2
 * Composer
+  * 2022-06-12: [Composer version 2.4 adds a new command called bump, that increases the requirements listed in the composer.json](https://php.watch/articles/composer-bump)
   * 2022-03-30: https://blog.packagist.com/composer-2-3/
 * OpenAPI Generator
   * 2022-05-26: https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0
