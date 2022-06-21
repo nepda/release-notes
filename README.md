@@ -9,6 +9,7 @@
   * 2022-05-13: 2022.1.1 https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-1-1-is-released/
   * 2022-05-09: 2022.1.1 RC https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-1-1-rc/
 * DDEV
+  * 2022-06-04: https://github.com/drud/ddev/releases/tag/v1.19.3
   * 2022-05-06: https://github.com/drud/ddev/releases/tag/v1.19.2
 * Composer
   * 2022-06-12: [Composer version 2.4 adds a new command called bump, that increases the requirements listed in the composer.json](https://php.watch/articles/composer-bump)
