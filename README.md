@@ -82,9 +82,7 @@
      * [Release notes](https://github.com/opensearch-project/OpenSearch/blob/main/release-notes/opensearch.release-notes-2.0.0.md)
 
 ## Team tools
-  * Slack for Linux
-    * 2022-06-16: 4.26.1
-
-## Links
   * [Slack for Linux (Beta) - Release Notes](https://slack.com/release-notes/linux)
-
+    * 2022-07-05: 4.27.156
+    * 2022-06-27: 4.27.154
+    * 2022-06-16: 4.26.1
