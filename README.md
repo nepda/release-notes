@@ -25,10 +25,13 @@
   * 8.2 (preview)
     * Deprecated: [utf8_encode and utf8_decode functions deprecated](https://php.watch/versions/8.2/utf8_encode-utf8_decode-deprecated)
   * 8.1 ([What's new in PHP 8.1](https://stitcher.io/blog/new-in-php-81))
+    * 2022-07-07: https://www.php.net/ChangeLog-8.php#8.1.8
     * 2022-06-09: https://www.php.net/ChangeLog-8.php#8.1.7
     * 2022-05-12: https://www.php.net/ChangeLog-8.php#8.1.6
     * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.1.5
   * 8.0 ([What's new in PHP 8](https://stitcher.io/blog/new-in-php-8))
+    * 2022-07-07: https://www.php.net/ChangeLog-8.php#8.0.21
+    * 2022-06-09: https://www.php.net/ChangeLog-8.php#8.0.20
     * 2022-05-12: https://www.php.net/ChangeLog-8.php#8.0.19
     * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.0.18
 
