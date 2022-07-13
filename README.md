@@ -3,6 +3,7 @@
 ## Development tools
 
 * PhpStorm
+  * 2022-07-11: [PhpStorm 2022.2 Beta](https://blog.jetbrains.com/phpstorm/2022/07/phpstorm-2022-2-beta/)
   * 2022-06-23: [PhpStorm 2022.2 EAP #5: @var in Return Statements...](https://blog.jetbrains.com/phpstorm/2022/06/phpstorm-2022-2-eap-5/)
   * 2022-06-20: [PhpStorm 2022.2 EAP #4: highlighting failed test assertions](https://blog.jetbrains.com/phpstorm/2022/06/phpstorm-2022-2-eap-4/)
   * 2022-05-27: 2022.2 EAP https://blog.jetbrains.com/phpstorm/2022/05/phpstorm-2022-2-early-access-program-is-open/
