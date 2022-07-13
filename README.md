@@ -71,6 +71,8 @@
   * 2022-05-23: https://github.com/nunomaduro/larastan/releases/tag/v2.1.6
     * Requires phpstan ^1.7
   * 2022-05-23: https://github.com/nunomaduro/larastan/releases/tag/v2.1.5
+* php-cs-fixer
+  * 2022-07-11: https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.1
 
 ## Ecosystem
 
