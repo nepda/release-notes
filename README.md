@@ -29,6 +29,7 @@
     * 2022-05-12: https://www.php.net/ChangeLog-8.php#8.1.6
     * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.1.5
   * 8.0 ([What's new in PHP 8](https://stitcher.io/blog/new-in-php-8))
+    * 2022-06-09: https://www.php.net/ChangeLog-8.php#8.0.20
     * 2022-05-12: https://www.php.net/ChangeLog-8.php#8.0.19
     * 2022-04-14: https://www.php.net/ChangeLog-8.php#8.0.18
 
