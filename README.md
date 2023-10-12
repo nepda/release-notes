@@ -7,16 +7,16 @@
 * DDEV
   * [Documentation with the current version](https://ddev.readthedocs.io/en/latest/)
 * Composer
-  * https://blog.packagist.com/
+  * [https://blog.packagist.com/](https://blog.packagist.com/)
 * OpenAPI Generator
-  * ttps://github.com/OpenAPITools/openapi-generator
+  * [https://github.com/OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
 ## Basic Software
 
 * PHP
-  * https://www.php.net/supported-versions.php
-  * https://stitcher.io/
-  * https://php.watch
+  * [https://www.php.net/supported-versions.php](https://www.php.net/supported-versions.php)
+  * [https://stitcher.io/](https://stitcher.io/)
+  * [https://php.watch](https://php.watch)
 
 ## Libraries
 
